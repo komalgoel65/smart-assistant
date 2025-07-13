@@ -16,9 +16,9 @@ An AI-powered assistant that reads documents (PDFs), generates summaries, answer
  Assistant Screenshot = [screenshot.png]
  ⚙️ Architecture & Reasoning Flow
 - Files and their roles
-app_free.py -	Streamlit UI, document handling
-backend_free.py	- Logic: summarization, QA, logic Qs
-requirements.txt -	All dependencies
+## app_free.py -	Streamlit UI, document handling
+## backend_free.py	- Logic: summarization, QA, logic Qs
+## requirements.txt -	All dependencies
  
 
 
