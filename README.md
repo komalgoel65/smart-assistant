@@ -11,6 +11,9 @@ An AI-powered assistant that reads documents (PDFs), generates summaries, answer
 - 💬 Ask Anything: free-form QA using semantic search
 - 🧩 Challenge Me: 3 logic-based questions + feedback
 - 📚 Justification with text from document
-- 🆓 100% Free: uses open-source models 
+- 🆓 100% Free: uses open-source models
+
+ Assistant Screenshot = [screenshot.png]
+ 
 
 
